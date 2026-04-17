@@ -1,5 +1,5 @@
 # groovy-simple-project
 
 ## Run project
-'''bash 
+```bash 
 gradle run
